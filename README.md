@@ -740,4 +740,4 @@ In order to run the tests and code analysis, run `./gradlew check`.
 ### Building from Android Studio
 
 In AndroidStudio, File -> New -> Import project. Select the root folder
-(the one with the `build.gradle` file).
+(the one with the `build.gradle` file).>f8ec80642a7801b9de2aa661544fd9a23a8227ab
